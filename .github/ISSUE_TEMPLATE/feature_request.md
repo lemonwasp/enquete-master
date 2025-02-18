@@ -1,9 +1,11 @@
+---
 name: "🛠️ 기능 개발 요청"
 description: "새로운 기능을 개발하기 위한 이슈"
 title: "[Feature] "
 labels: ["feature", "development"]
 assignees:
   - your-github-username
+---
 
 body:
   - type: markdown
