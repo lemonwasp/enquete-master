@@ -1,5 +1,3 @@
-# TEST2
-
 # 🌿 브랜치 네이밍 규칙
 ## ✅ 기본 규칙
 - **소문자 사용** (대문자 X)
@@ -68,9 +66,6 @@
   - `merge/bugfix-auth-errors → 여러 버그 픽스 병합`
   - `merge/hotfix-security-patch → 긴급 수정 병합`
 
----
-
-📌 **규칙을 지켜 브랜치를 생성하면 협업이 더 원활해집니다! 🚀**
 
 <!-- <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
